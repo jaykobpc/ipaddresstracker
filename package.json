@@ -1,0 +1,19 @@
+{
+  "name": "ip-address-tracker",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "axios": "^0.27.2",
+    "sass": "^1.54.8",
+    "vite": "^3.1.0"
+  },
+  "dependencies": {
+    "nprogress": "^0.2.0"
+  }
+}
